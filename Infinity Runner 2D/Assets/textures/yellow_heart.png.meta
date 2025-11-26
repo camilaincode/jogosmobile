@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: e73c9f1a80894e1408c779604747f79e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6726080286961905671
+    second: yellow_heart_0
+  - first:
+      213: 53175573591324429
+    second: yellow_heart_1
+  - first:
+      213: 6216073944342043184
+    second: yellow_heart_2
+  - first:
+      213: 2550119159549792992
+    second: yellow_heart_3
+  - first:
+      213: -8604586267177280022
+    second: yellow_heart_4
+  - first:
+      213: -6722719495476158290
+    second: yellow_heart_5
+  - first:
+      213: -7175868978670151036
+    second: yellow_heart_6
+  - first:
+      213: -1767274650944810982
+    second: yellow_heart_7
+  - first:
+      213: 840483732343764888
+    second: yellow_heart_8
+  - first:
+      213: -8657103894281991142
+    second: yellow_heart_9
+  - first:
+      213: -7721759882956085443
+    second: yellow_heart_10
+  - first:
+      213: -1656152072990540632
+    second: yellow_heart_11
+  - first:
+      213: 9091556796160771445
+    second: yellow_heart_12
+  - first:
+      213: 8272422421962958299
+    second: yellow_heart_13
+  - first:
+      213: 1834315249823270662
+    second: yellow_heart_14
+  - first:
+      213: 8373722578919194511
+    second: yellow_heart_15
+  - first:
+      213: -2239679789409739798
+    second: yellow_heart_16
+  - first:
+      213: -8108612348700652817
+    second: yellow_heart_17
+  - first:
+      213: 8101218811832951726
+    second: yellow_heart_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellow_heart_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 211
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffc0e48d9928a2a0800000000000000
+      internalID: -6726080286961905671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 205
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0773a607eaecb000800000000000000
+      internalID: 53175573591324429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 203
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a9116715ee34650800000000000000
+      internalID: 6216073944342043184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 191
+        width: 123
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e212ef4dd7d36320800000000000000
+      internalID: 2550119159549792992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed91b9016e569880800000000000000
+      internalID: -8604586267177280022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 55
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0ec83cc3a14b2a0800000000000000
+      internalID: -6722719495476158290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 59
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ade9bee213a6c90800000000000000
+      internalID: -7175868978670151036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 121
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d1e181116977e0800000000000000
+      internalID: -1767274650944810982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 58
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89738d1608ff9ab00800000000000000
+      internalID: 840483732343764888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ccbad10e9cbd780800000000000000
+      internalID: -8657103894281991142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d376a8f4c4cc6d490800000000000000
+      internalID: -7721759882956085443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 121
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac3f5bd67a2409e0800000000000000
+      internalID: -1656152072990540632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 120
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575837aacb2bb2e70800000000000000
+      internalID: 9091556796160771445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 66
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd524151d5c8dc270800000000000000
+      internalID: 8272422421962958299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 76
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074cc7400cc47910800000000000000
+      internalID: 1834315249823270662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 81
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f7524d150753470800000000000000
+      internalID: 8373722578919194511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 67
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb5c9d091f0be0e0800000000000000
+      internalID: -2239679789409739798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 82
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea0a56b70c687f80800000000000000
+      internalID: -8108612348700652817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_heart_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 62
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3e307569f4d6070800000000000000
+      internalID: 8101218811832951726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d45101dc56817d49aebf6755d4a2ded
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yellow_heart_0: -6726080286961905671
+      yellow_heart_1: 53175573591324429
+      yellow_heart_10: -7721759882956085443
+      yellow_heart_11: -1656152072990540632
+      yellow_heart_12: 9091556796160771445
+      yellow_heart_13: 8272422421962958299
+      yellow_heart_14: 1834315249823270662
+      yellow_heart_15: 8373722578919194511
+      yellow_heart_16: -2239679789409739798
+      yellow_heart_17: -8108612348700652817
+      yellow_heart_18: 8101218811832951726
+      yellow_heart_2: 6216073944342043184
+      yellow_heart_3: 2550119159549792992
+      yellow_heart_4: -8604586267177280022
+      yellow_heart_5: -6722719495476158290
+      yellow_heart_6: -7175868978670151036
+      yellow_heart_7: -1767274650944810982
+      yellow_heart_8: 840483732343764888
+      yellow_heart_9: -8657103894281991142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

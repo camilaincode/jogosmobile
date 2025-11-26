@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: fd52de17c32f8e048aec8fb1b8cd8024
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4185048827193079498
+    second: blue_heart_0
+  - first:
+      213: -2534261537291324774
+    second: blue_heart_1
+  - first:
+      213: -1358762806887191042
+    second: blue_heart_2
+  - first:
+      213: -3676464157263853615
+    second: blue_heart_3
+  - first:
+      213: 949944624217269363
+    second: blue_heart_4
+  - first:
+      213: 1349238247894870108
+    second: blue_heart_5
+  - first:
+      213: -7752285488292231551
+    second: blue_heart_6
+  - first:
+      213: -1894722386684749430
+    second: blue_heart_7
+  - first:
+      213: 4713519637435358576
+    second: blue_heart_8
+  - first:
+      213: -9181048623438255877
+    second: blue_heart_9
+  - first:
+      213: 2022386679179669848
+    second: blue_heart_10
+  - first:
+      213: -6335656338794729056
+    second: blue_heart_11
+  - first:
+      213: -1011244721693363257
+    second: blue_heart_12
+  - first:
+      213: 7802652660846712998
+    second: blue_heart_13
+  - first:
+      213: -7412485982573115116
+    second: blue_heart_14
+  - first:
+      213: 8048015713507024254
+    second: blue_heart_15
+  - first:
+      213: 735336502670861655
+    second: blue_heart_16
+  - first:
+      213: 4881066727977620213
+    second: blue_heart_17
+  - first:
+      213: -6452753979708482195
+    second: blue_heart_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_heart_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 211
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639cd77d348bbe5c0800000000000000
+      internalID: -4185048827193079498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 205
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b0d51f8e74dcd0800000000000000
+      internalID: -2534261537291324774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 203
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde9791d64b42de0800000000000000
+      internalID: -1358762806887191042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 191
+        width: 123
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d705d4e3539afcc0800000000000000
+      internalID: -3676464157263853615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37423ca4a91ee2d00800000000000000
+      internalID: 949944624217269363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 55
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58e423b90579b210800000000000000
+      internalID: 1349238247894870108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 59
+        width: 115
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1860de8fb695a6490800000000000000
+      internalID: -7752285488292231551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 121
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89dca9270894b5e0800000000000000
+      internalID: -1894722386684749430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 64
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d992f0329c96140800000000000000
+      internalID: 4713519637435358576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 136
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8af569bec569080800000000000000
+      internalID: -9181048623438255877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517cfa38f5f01c10800000000000000
+      internalID: 2022386679179669848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 121
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1303ba02a3318a0800000000000000
+      internalID: -6335656338794729056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 120
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c37a7e884657f1f0800000000000000
+      internalID: -1011244721693363257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 66
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8568b3147984c60800000000000000
+      internalID: 7802652660846712998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 76
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ca2a954f812990800000000000000
+      internalID: -7412485982573115116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 81
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d1956b6ab40bf60800000000000000
+      internalID: 8048015713507024254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 67
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755231837a0743a00800000000000000
+      internalID: 735336502670861655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 82
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2951ef3580db340800000000000000
+      internalID: 4881066727977620213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_heart_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 62
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ddc7091763376a0800000000000000
+      internalID: -6452753979708482195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 59b125825ddc16f409b7af0c061df1de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blue_heart_0: -4185048827193079498
+      blue_heart_1: -2534261537291324774
+      blue_heart_10: 2022386679179669848
+      blue_heart_11: -6335656338794729056
+      blue_heart_12: -1011244721693363257
+      blue_heart_13: 7802652660846712998
+      blue_heart_14: -7412485982573115116
+      blue_heart_15: 8048015713507024254
+      blue_heart_16: 735336502670861655
+      blue_heart_17: 4881066727977620213
+      blue_heart_18: -6452753979708482195
+      blue_heart_2: -1358762806887191042
+      blue_heart_3: -3676464157263853615
+      blue_heart_4: 949944624217269363
+      blue_heart_5: 1349238247894870108
+      blue_heart_6: -7752285488292231551
+      blue_heart_7: -1894722386684749430
+      blue_heart_8: 4713519637435358576
+      blue_heart_9: -9181048623438255877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

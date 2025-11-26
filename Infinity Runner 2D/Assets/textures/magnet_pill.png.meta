@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 09d43d834eade71429eb4940b05e1b73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5201397167447525033
+    second: magnet_pill_0
+  - first:
+      213: -2325578457139183350
+    second: magnet_pill_1
+  - first:
+      213: -4033873618335368037
+    second: magnet_pill_2
+  - first:
+      213: 2487027076535586022
+    second: magnet_pill_3
+  - first:
+      213: -6018531588790533901
+    second: magnet_pill_4
+  - first:
+      213: 392139281050816529
+    second: magnet_pill_5
+  - first:
+      213: -207533906772915815
+    second: magnet_pill_6
+  - first:
+      213: 6598479920828586136
+    second: magnet_pill_7
+  - first:
+      213: 3548245488286321303
+    second: magnet_pill_8
+  - first:
+      213: 4294012148754571121
+    second: magnet_pill_9
+  - first:
+      213: -5139154288994001289
+    second: magnet_pill_10
+  - first:
+      213: 7586427489628143537
+    second: magnet_pill_11
+  - first:
+      213: -7158360100717418956
+    second: magnet_pill_12
+  - first:
+      213: 8787614924751921020
+    second: magnet_pill_13
+  - first:
+      213: -517190735809075108
+    second: magnet_pill_14
+  - first:
+      213: -2823344007225560817
+    second: magnet_pill_15
+  - first:
+      213: 1574244019564386886
+    second: magnet_pill_16
+  - first:
+      213: 4719377560388766532
+    second: magnet_pill_17
+  - first:
+      213: 2001854825531955420
+    second: magnet_pill_18
+  - first:
+      213: 1535656088292382556
+    second: magnet_pill_19
+  - first:
+      213: 1529069846637913903
+    second: magnet_pill_20
+  - first:
+      213: -2557515076547006623
+    second: magnet_pill_21
+  - first:
+      213: 8270640996436628902
+    second: magnet_pill_22
+  - first:
+      213: -3514104814605429279
+    second: magnet_pill_23
+  - first:
+      213: -9111837407002086358
+    second: magnet_pill_24
+  - first:
+      213: 4304054777827356669
+    second: magnet_pill_25
+  - first:
+      213: 5954697337736107142
+    second: magnet_pill_26
+  - first:
+      213: -706353191481012861
+    second: magnet_pill_27
+  - first:
+      213: -4572467696007550107
+    second: magnet_pill_28
+  - first:
+      213: -8529754614430975957
+    second: magnet_pill_29
+  - first:
+      213: 5966352282006569720
+    second: magnet_pill_30
+  - first:
+      213: 5375667169304113353
+    second: magnet_pill_31
+  - first:
+      213: -2530653438442548844
+    second: magnet_pill_32
+  - first:
+      213: 9126598296815594443
+    second: magnet_pill_33
+  - first:
+      213: -8924129289229508880
+    second: magnet_pill_34
+  - first:
+      213: 6643206250704391101
+    second: magnet_pill_35
+  - first:
+      213: -5468344864860811524
+    second: magnet_pill_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magnet_pill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73c70334fdbb504c938f78386f8380e
+      internalID: -218356580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnet_pill_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6960b307d886f174c97139c356593b77
+      internalID: 1035224330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnet_pill_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566bfd3ceb816cd418520aced1600212
+      internalID: 1991623543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnet_pill_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0545f90b5da5345449acec54051dc96d
+      internalID: -567606079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnet_pill_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e082cb15d939ef43855917345cc9160
+      internalID: 970073967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnet_pill_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a689ae44b044d469463845d6b48d8b
+      internalID: 1176315033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnet_pill_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4686b261d24d5d4382cb0447d676f8b
+      internalID: 2095461192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f2f79249f7958f34197f936bdc19fe27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      magnet_pill_0: -218356580
+      magnet_pill_1: 1035224330
+      magnet_pill_2: 1991623543
+      magnet_pill_3: -567606079
+      magnet_pill_4: 970073967
+      magnet_pill_5: 1176315033
+      magnet_pill_6: 2095461192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
