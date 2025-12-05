@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 78d2d97018a46a44891f40633e11a279
+guid: e20f1b0db9185054f98e9c645d2edfd5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 961350129022311865
-    second: BayTile_06_0
+      213: 1150196622028393380
+    second: raio_0
+  - first:
+      213: -5521949077634476730
+    second: raio_1
+  - first:
+      213: 3839937521771061590
+    second: raio_2
+  - first:
+      213: -4558012089870672698
+    second: raio_3
+  - first:
+      213: -1911898280944781934
+    second: raio_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,22 +138,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BayTile_06_0
+      name: raio_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 32
-        height: 32
+        y: 176
+        width: 72
+        height: 324
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9bd962159d6675d00800000000000000
-      internalID: 961350129022311865
+      spriteID: 4ab4bd5dbb156ff00800000000000000
+      internalID: 1150196622028393380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raio_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 141
+        width: 111
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6451dc702981e53b0800000000000000
+      internalID: -5521949077634476730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raio_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 115
+        width: 112
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651abd8c4d23a4530800000000000000
+      internalID: 3839937521771061590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raio_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 163
+        width: 165
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc92555720beb0c0800000000000000
+      internalID: -4558012089870672698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raio_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 172
+        width: 100
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2953b95a4a29775e0800000000000000
+      internalID: -1911898280944781934
       vertices: []
       indices: 
       edges: []
@@ -149,7 +245,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bc9b2188b8ac17447ba91149df622ae4
     internalID: 0
     vertices: []
     indices: 
@@ -157,7 +253,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BayTile_06_0: 961350129022311865
+      raio_0: 1150196622028393380
+      raio_1: -5521949077634476730
+      raio_2: 3839937521771061590
+      raio_3: -4558012089870672698
+      raio_4: -1911898280944781934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

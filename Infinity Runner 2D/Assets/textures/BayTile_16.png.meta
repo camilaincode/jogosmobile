@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BayTile_16_0: 5575770452134744330
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
